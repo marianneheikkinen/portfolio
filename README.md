@@ -1,5 +1,5 @@
 # Hello!
-This is a portfolio to share my projects in data analytics, data science &amp; ML.
+This is a portfolio to share my projects in data analytics, data science &amp; ML :monocle_face:
 
 ## Data Analytics
 
